@@ -58,7 +58,7 @@ class Brand
     }
 
     /**
-     * @param array $row
+     * @param array $data
      * @return void
      */
     protected function createBrand($data)
